@@ -1,5 +1,7 @@
 ENPM 661: Planning for Autonomous Robots. Project 1 - 8 PUZZLE PROBLEM
 
+Solving an 8-Puzzle problem for Introduction to Planning for Autonomous Robots using Breadth First Search
+
 Instructions to run the Code
 
 1) File Name : Project1_Planning_kssutrad_117037272
