@@ -5,7 +5,7 @@ Solving an 8-Puzzle problem for Introduction to Planning for Autonomous Robots u
 
 Instructions to run the Code
 
-1) File Name : Project1_Planning_kssutrad_117037272
+1) File Name : 8_Puzzle
 
 2) Recommended IDE: PyCharm
    Version of python : Python 3
